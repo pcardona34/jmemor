@@ -6,7 +6,8 @@
 
 - Le premier code a été publié initialement sur [SourceForge](https://sourceforge.net/projects/jmemor/). Ce projet est caduc et il a été remplacé par le nouveau code...
 
-## Nouvelle version
+## Nouvelle version
+
 Cette nouvelle version comprend :
 
 1. L'exerciseur mieux adapté aux usages en mobilité [ejMemor](https://github.com/pcardona34/ejmemor) qui est pleinement opérationnel.
